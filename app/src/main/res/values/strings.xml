@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <string name="hotel_nameHilton">Hilton</string>
+    <string name="hotel_locationHilton">The city of Abdel Moneim Riad is located in Cairo </string>
+    <string name="hotel_detailsHilton">One of the best hotels in Egypt</string>
+    <string name="hotel_namesherator">sherator</string>
+    <string name="hotel_locationsherator">The city of sherator is located in Cairo </string>
+    <string name="hotel_detailssherator">One of the best hotels in Egypt</string>
+    <string name="Restaurants_nameElbrans">Elbrans</string>
+    <string name="Restaurants_locationElbrans">Located in Giza </string>
+    <string name="Restaurants_detailsElbrans">Best Restaurant in Egypt</string>
+    <string name="Restaurants_nameELmalke">ELmalke</string>
+    <string name="Restaurants_locationELmalke">Located in Giza </string>
+    <string name="Restaurants_detailsELmalke">Best ice cream shop in Egypt</string>
+    <string name="Clubs_nameZamalak">Zamalak</string>
+    <string name="Clubs_locationZamalak">Located in Giza </string>
+    <string name="Clubs_detailsZamalak">the best team in the world Egypt</string>
+    <string name="Clubs_namereal_madrid">Real madrid </string>
+    <string name="Clubs_locationReal_madrid">Located in madrid </string>
+    <string name="Clubs_detailsReal_madrid">the best team in the world</string>
+    <string name="Historical_places_namePyramids">Pyramids</string>
+    <string name="Historical_places_locationPyramids">Located in the south of Giza</string>
+    <string name="Historical_places_detailsPyramids">Of the wonders of the world</string>
+    <string name="Historical_places_nameMohammed_Alis_castle">Mohammed Ali s castle</string>
+    <string name="Historical_places_locationMohammed_Alis_castle">Located in cairo </string>
+    <string name="Historical_places_detailsMohammed_Alis_castle">Built by Mohammed Ali Pasha for war </string>
+
+</resources>
